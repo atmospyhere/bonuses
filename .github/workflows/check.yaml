@@ -1,0 +1,35 @@
+name: Check for Bonuses
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 13,27 * *"
+
+jobs:
+  submit-pr:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Set up environment
+        run: |
+          python -m pip install --upgrade pip build
+          python -m pip install pandas beautifulsoup4 requests
+      - name: Get bonuses
+        env:
+          URL: ${{ secrets.BONUS_URL }}
+        run: |
+          python get_bonuses.py --url $URL
+      - name: Submit PR
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: Update bonuses
+          branch: update-bonuses
+          delete-branch: true
+          title: Update bonuses with new data
+          body: |
+            This PR updates the bonuses with the latest data.
