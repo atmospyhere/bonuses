@@ -23,7 +23,7 @@ jobs:
         env:
           URL: ${{ secrets.BONUS_URL }}
         run: |
-          python get_bonuses.py --url $URL
+          python check.py --url $URL
       - name: Submit PR
         uses: peter-evans/create-pull-request@v4
         with:
