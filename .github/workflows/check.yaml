@@ -2,7 +2,7 @@ name: Check for Bonuses
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 13,27 * *"
+    - cron: "0 0 7,14,21,28 * *"
 
 jobs:
   submit-pr:
@@ -28,8 +28,8 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           commit-message: Update bonuses
-          branch: update-bonuses
-          delete-branch: true
+          branch: main
+          delete-branch: false
           title: Update bonuses with new data
           body: |
             This PR updates the bonuses with the latest data.
