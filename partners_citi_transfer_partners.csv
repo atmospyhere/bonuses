@@ -1,0 +1,20 @@
+Program,Type,Transfer Ratio,Transfer Time
+Aeromexico,Airline,1:1,Instant
+Air France/KLM,Airline,1:1,Instant
+Avianca LifeMiles,Airline,1:1,Instant
+Cathay Pacific,Airline,1:1,12-24 hours
+Emirates,Airline,1:1,Instant
+Etihad,Airline,1:1,Instant
+EVA Air,Airline,1:1,1-3 days
+JetBlue,Airline,1:1*,Instant
+Qantas,Airline,1:1,1-2 days
+Qatar Airways,Airline,1:1,1-2 days
+Singapore,Airline,1:1,12-48 hours
+Thai Airways,Airline,1:1,4-7 days
+Turkish Airlines,Airline,1:1,Instant
+Virgin Atlantic,Airline,1:1,Instant
+Accor,Hotel,2:1,TBD
+Choice Hotels,Hotel,1:2*,Instant
+Wyndham Rewards,Hotel,1:1*,Instant
+The Leading Hotels of the World (LHW),Hotel,1:0.2,TBD
+Preferred Hotels and Resorts,Hotel,1:4,TBD

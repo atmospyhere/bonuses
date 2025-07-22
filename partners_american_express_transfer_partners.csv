@@ -1,0 +1,22 @@
+Program,Type,Transfer Ratio,Transfer Time
+Aer Lingus,Airline,1:1,
+AeroMexico,Airline,1:1.6,2-12 days
+Air Canada Aeroplan,Airline,1:1,Instant
+Air France/KLM,Airline,1:1,Instant
+ANA,Airline,1:1,1-2 days
+Avianca,Airline,1:1,Instant
+British Airways,Airline,1:1,Instant
+Cathay Pacific,Airline,1:1,Instant
+Delta,Airline,1:1,Instant
+Emirates,Airline,1:1,Instant
+Etihad,Airline,1:1,Instant
+Hawaiian,Airline,1:1,Instant
+Iberia,Airline,1:1,1-3 days
+JetBlue,Airline,1.25:1,Instant
+Qantas,Airline,1:1,Instant
+Qatar Airways,Airline,1:1,Instant
+Singapore,Airline,1:1,Instant
+Virgin Atlantic,Airline,1:1,Instant
+Choice Privileges,Hotel,1:1,Instant
+Hilton Honors,Hotel,1:2,Instant
+Marriott Bonvoy,Hotel,1:1,Instant

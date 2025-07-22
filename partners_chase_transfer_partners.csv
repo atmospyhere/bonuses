@@ -1,0 +1,15 @@
+Program,Type,Transfer Ratio,Transfer Time
+Aer Lingus,Airline,1:1,Instant
+Air Canada Aeroplan,Airline,1:1,Instant
+Air France/KLM,Airline,1:1,Instant
+British Airways,Airline,1:1,Instant
+Emirates,Airline,1:1,Instant
+Iberia Plus,Airline,1:1,Instant
+JetBlue,Airline,1:1,Instant
+Singapore Air,Airline,1:1,12-24 hours
+Southwest Airlines,Airline,1:1,Instant
+United Airlines,Airline,1:1,Instant
+Virgin Atlantic,Airline,1:1,Instant
+World of Hyatt,Hotel,1:1,Instant
+IHG,Hotel,1:1,1 day
+Marriott Rewards,Hotel,1:1,2 days
