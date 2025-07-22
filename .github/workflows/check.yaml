@@ -28,8 +28,8 @@ jobs:
 
       - name: Get data
         env:
-          URL_PARTNERS: ${{ secrets.PARTNERS_URL }}
-          URL_BONUSES: ${{ secrets.BONUSES_URL }}
+          URL_PARTNERS: ${{ secrets.URL_PARTNERS }}
+          URL_BONUSES: ${{ secrets.URL_BONUSES }}
         run: |
           echo "Running data check script..."
           python check.py --url-partners "$URL_PARTNERS" --url-bonuses "$URL_BONUSES"
