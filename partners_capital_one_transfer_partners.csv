@@ -9,12 +9,15 @@ Emirates,Airline,1:1,Instant
 Etihad,Airline,1:1,Up to 1 day
 EVA Air,Airline,2:1.5,Up to five business days
 Finnair,Airline,1:1,Instant
+Japan Airlines,Airline,2:1.5,TBD
 JetBlue,Airline,2:1.2,TBD
 Qantas,Airline,1:1,Instant
+Qatar Airways,Airline,1:1,TBD
 Singapore,Airline,1:1,Instant
 TAP Air Portugal,Airline,1:1,Same day
 Turkish Airlines,Airline,1:1,Same day
 Virgin Red,Other,1:1,Same day
 Accor,Hotel,2:1,Up to two business days
-Wyndham,Hotel,1:1,Same day
 Choice Hotels,Hotel,1:1,Same day
+Preferred Hotels & Resorts,Hotel,1:2,TBD
+Wyndham,Hotel,1:1,Same day
