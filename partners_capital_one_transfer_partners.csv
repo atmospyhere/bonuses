@@ -4,20 +4,20 @@ Air Canada Aeroplan,Airline,1:1,Instant
 Air France/KLM,Airline,1:1,Instant
 Avianca LifeMiles,Airline,1:1,Instant
 British Airways,Airline,1:1,Instant
-Cathay Pacific AsiaMiles,Airline,1:1,Up to five business days
+Cathay Pacific AsiaMiles,Airline,1:1,1-5 Days (sometimes instant)
 Emirates,Airline,2:1.5,Instant
-Etihad,Airline,1:1,Up to 1 day
-EVA Air,Airline,2:1.5,Up to five business days
+Etihad,Airline,1:1,Instant (sometimes 12-24 hours)
+EVA Air,Airline,2:1.5,24-48 Hours
 Finnair,Airline,1:1,Instant
 Japan Airlines,Airline,2:1.5,Instant
-JetBlue,Airline,2:1.2,TBD
+JetBlue,Airline,2:1.2,Instant
 Qantas,Airline,1:1,Instant
 Qatar Airways,Airline,1:1,TBD
-Singapore,Airline,1:1,Instant
+Singapore,Airline,1:1,Up to 24 Hours
 TAP Air Portugal,Airline,1:1,Same day
 Turkish Airlines,Airline,1:1,Same day
 Virgin Red,Other,1:1,Same day
-Accor,Hotel,2:1,Up to two business days
+Accor,Hotel,2:1,1 Hour (Same Day)
 Choice Hotels,Hotel,1:1,Same day
 Preferred Hotels & Resorts,Hotel,1:2,TBD
 Wyndham,Hotel,1:1,Same day
