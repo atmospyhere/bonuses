@@ -10,5 +10,6 @@ Southwest Airlines,Airline,1:1,Instant
 United Airlines,Airline,1:1,Instant
 Virgin Atlantic,Airline,1:1,Instant
 World of Hyatt,Hotel,1:1,Instant
-IHG,Hotel,1:1,Instant to Same Day
-Marriott Rewards,Hotel,1:1,Instant to Next Day
+IHG,Hotel,1:1,Instant
+Marriott Rewards,Hotel,1:1,Instant
+Wyndham Rewards,Hotel,1:1,Instant - next business day
