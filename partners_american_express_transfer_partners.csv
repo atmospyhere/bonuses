@@ -6,9 +6,9 @@ Air France/KLM,Airline,1:1,Instant
 ANA,Airline,1:1,1-2 days
 Avianca,Airline,1:1,Instant
 British Airways,Airline,1:1,Instant
-Cathay Pacific,Airline,1:1,Instant (up to 24 hours for new accounts)
+Cathay Pacific,Airline,5:4,Instant
 Delta,Airline,1:1,Instant
-Emirates,Airline,"1,000:800",Instant
+Emirates,Airline,5:4,Instant
 Etihad,Airline,1:1,Instant
 Iberia,Airline,1:1,4-24 Hours
 JetBlue,Airline,1.25:1,Instant
