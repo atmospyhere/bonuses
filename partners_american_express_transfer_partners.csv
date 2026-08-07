@@ -9,7 +9,6 @@ British Airways,Airline,1:1,Instant
 Cathay Pacific,Airline,5:4,Instant
 Delta,Airline,1:1,Instant
 Emirates,Airline,5:4,Instant
-Etihad,Airline,1:1,Instant
 Iberia,Airline,1:1,4-24 Hours
 JetBlue,Airline,1.25:1,Instant
 Qantas,Airline,1:1,Instant
@@ -19,3 +18,4 @@ Virgin Atlantic,Airline,1:1,Instant
 Choice Privileges,Hotel,1:1,Instant
 Hilton Honors,Hotel,1:2,Instant
 Marriott Bonvoy,Hotel,1:1,Instant
+Leading Hotels of the World,Hotel,4:1,Unknown
