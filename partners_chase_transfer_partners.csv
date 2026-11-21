@@ -3,8 +3,10 @@ Aer Lingus,Airline,1:1,Instant
 Air Canada Aeroplan,Airline,1:1,Instant
 Air France/KLM,Airline,1:1,Instant
 British Airways,Airline,1:1,Instant
+Cathay Pacific,Airline,1:1,TBD
 Iberia Plus,Airline,1:1,Instant
 JetBlue,Airline,1:1,Instant
+Qantas Frequent Flyer,Airline,1:1,TBD
 Singapore Air,Airline,1:1,24-48 hours
 Southwest Airlines,Airline,1:1,Instant
 United Airlines,Airline,1:1,Instant
